@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex {
+  height: 100vh;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+}
+
+body {
+  background-image: linear-gradient(
+    to top,
+    #fdcbf1 0%,
+    #fdcbf1 1%,
+    #e6dee9 100%
+  );
+}
